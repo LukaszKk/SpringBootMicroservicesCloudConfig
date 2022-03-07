@@ -3,7 +3,7 @@ gateway:
 
 token:
   expiration-time: 86400000 # 24 hours
-  secret: lkajsbd8712631h23b
+  secret: lkajsbd8712631h230
 
 login:
   url:
