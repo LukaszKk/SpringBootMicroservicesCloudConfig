@@ -3,7 +3,7 @@ gateway:
 
 token:
   expiration-time: 86400000 # 24 hours
-  secret: '{cipher}f3ee2bd2b14fd41b5866dd0428c8bd344064841505530def3c93e4c8b4b8bb808f2fc258c24da4422a9fcde796d937c3'
+  secret: '{cipher}AQDRJs+iSfJjTzZDWfHlnFDFITScoa+l0miAhtWc6e+k8yLHH1g0G4OReqVuN74wM+X2kkUwOM3+1v9QUEbKcd6tXshTXimnNbZLzQA7dWvfXc4QLuZ9HbWgPHKaMc6bXorE2R2FlwQOGGJPLyEyl4y/AI7VxXGdbo466Yla/l+M0/KxrXbIHBUNJpHAy5SklrQAoDKYQSn/lM2XcHxCoMK//yHFkcnHZYOETuZ2d98tPy7gXyBKl5RtmPLwbKieTtPoyiGc+6SUEgy4Px0JvEj1h0WRL/ZKNCk6p5gShydPdmdtArx+iFv6ft/4n6hLr2+GuW27zSqAUG0CoYxzMXML8LBPz5x1HXwyy0nJQTRP8q08+gylcZ/jZe19fzp6TO7NLxBvySCCA11jPh/CwoNh'
 
 login:
   url:

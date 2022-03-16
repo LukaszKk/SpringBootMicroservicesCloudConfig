@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/microservicesapp?serverTimezone=UTC
     username: root
-    password: '{cipher}431e93dd1e5ecd84a1ef8bf4a3f26c7fffda096942f231390ad68f1dfe5484c8'
+    password: '{cipher}AQAkxwNqObLLfY4rmC+AYYFf6HVUXXbzvPRKZICJEFZRQ/yxqm71OOh+5aT6sehwQNiR3khwLACXiJ8aveJ/XTl2Y3udZnoX2+RVzRDq7tLxoEiquMkWMH+1UcoASV8hht2c71klznD+qMJOLeIjlRNPlGQC7KxJZ0h0sTMAJ4oZK2UasNv6NHWmzzMRuTrPZq+ngfF+NfMuRPmd6Z587uBbQHkaRlbOXfY0m5KV1U491oFy4Gu+mnQ6Jq8Mi4jotdt884ilerj/I53kSTo4eOd0jhsdF8aJF6T7f/kricqAkbXWyWYoIwjC21SsPh+eQO+c8dxxgijukMG495bNLcAlGYXrdp4EGKoP7j7p1wlAnt0T37Z8bC0ZVGyfJHTMRbA='
   jpa:
     hibernate:
       ddl-auto: update
