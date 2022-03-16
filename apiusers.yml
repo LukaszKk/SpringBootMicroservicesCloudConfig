@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/microservicesapp?serverTimezone=UTC
     username: root
-    password: root
+    password: '{cipher}431e93dd1e5ecd84a1ef8bf4a3f26c7fffda096942f231390ad68f1dfe5484c8'
   jpa:
     hibernate:
       ddl-auto: update
